@@ -70,7 +70,7 @@ This is my very first Project on HTML. A simple a subtle HTML resume of mine.
 </body>
 </html>
 
-[Project URL](file:///C:/Users/sacha/OneDrive/Documents/Web%20Development/Frontend/Project1/myCv.html)
+[Project URL](https://github.com/adroit-sumit/Project1/tree/main)
 
 
 Copy the above code and run in any code editor using .html extension.
