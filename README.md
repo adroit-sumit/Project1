@@ -4,7 +4,7 @@ This is my very first Project on HTML. A simple a subtle HTML resume of mine.
 ## TECHNOLOGIES USED
 - HTML(HyperText Markup Language)
 
-# Installation
+[Installation](Installation)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,7 +70,7 @@ This is my very first Project on HTML. A simple a subtle HTML resume of mine.
 </body>
 </html>
 
-# PROJECT URL
-[file:///C:/Users/sacha/OneDrive/Documents/Web%20Development/Frontend/Project1/myCv.html](https://github.com/adroit-sumit/Project1/tree/main)
+[Project URL](file:///C:/Users/sacha/OneDrive/Documents/Web%20Development/Frontend/Project1/myCv.html)
+
 
 Copy the above code and run in any code editor using .html extension.
