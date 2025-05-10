@@ -71,7 +71,7 @@ This is my very first Project on HTML. A simple a subtle HTML resume of mine.
 </html>
 
 # Project URL
-[file:///C:/Users/sacha/OneDrive/Documents/Web%20Development/Frontend/Project1/myCv.html](https://adroit-sumit.github.io/Project1/)
+[My cv](https://roadmap.sh/projects/single-page-cv)
 
 
 Copy the above code and run in any code editor using .html extension.
