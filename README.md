@@ -70,7 +70,8 @@ This is my very first Project on HTML. A simple a subtle HTML resume of mine.
 </body>
 </html>
 
-[Project URL](https://github.com/adroit-sumit/Project1.git)
+# Project URL
+https://github.com/adroit-sumit/Project1.git(https://github.com/adroit-sumit/Project1.git)
 
 
 Copy the above code and run in any code editor using .html extension.
